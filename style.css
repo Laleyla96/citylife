@@ -1,0 +1,29 @@
+@import url('http://fonts.cdnfonts.com/css/elmono-pro');
+
+* {
+    font-family: 'Elmono Pro', sans-serif;
+}
+
+.bg-gray{
+    background-color: silver;
+}
+
+.bg-purple {
+    background-color: #7070FF;
+}
+.text-purple {
+    color: #7070FF;
+}
+
+.btn-purple {
+    color: #7070FF;
+    border: 1px solid #7070FF;
+}
+
+.round {
+    width: 10px;
+    height: 10px;
+    border: 2px solid red;
+    border-radius: 50%;
+    background: red;
+  }
